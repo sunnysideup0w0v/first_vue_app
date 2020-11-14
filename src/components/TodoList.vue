@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
     <h1>To do List</h1>
-    <input @input="inputChange" id="todoInput" placeholder="Please enter your to-dos" />
+    <input id="todoInput" placeholder="Please enter your to-dos" />
     <ul>
       <li>될까?</li>
     </ul>
